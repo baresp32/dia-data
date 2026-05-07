@@ -352,6 +352,39 @@
     "addedAt": 1777814254359
   },
   {
+    "name": "Samantha",
+    "phone": "992182581",
+    "whatsappNumber": "56992182581",
+    "whatsappLink": "https://wa.me/56992182581",
+    "city": "Metro Plaza de Armas",
+    "imageUrl": "",
+    "servicio": "Masajes a caballeros",
+    "fuente": "sinscrap",
+    "addedAt": 1777814254359
+  },
+  {
+    "name": "Luna Metro Santa Lucia Santiago Centro",
+    "phone": "958360403",
+    "whatsappNumber": "56958360403",
+    "whatsappLink": "https://wa.me/56958360403",
+    "city": "metro santa lucia santiago centro",
+    "url": "https://www.lacamilla.cl/masajes/foro/masajistas-independientesx/17969-luna-metro-santa-lucia-santiago-centro.html",
+    "imageUrl": "https://static.wixstatic.com/media/5fe068_1eb4993c5de94a3c97d93fa36c1d8a4c~mv2.jpg/v1/fill/w_250,h_400,al_c,q_80,enc_auto/5fe068_1eb4993c5de94a3c97d93fa36c1d8a4c~mv2.jpg",
+    "fuente": "lacamilla",
+    "addedAt": 1777814254359
+  },
+  {
+    "name": "Alexia Metro Plaza De Armas Santiago Centro",
+    "phone": "977097710",
+    "whatsappNumber": "56977097710",
+    "whatsappLink": "https://wa.me/56977097710",
+    "city": "metro plaza de armas santiago centro",
+    "url": "https://www.lacamilla.cl/masajes/foro/masajistas-independientesx/18004-alexia-metro-plaza-de-armas-santiago-centro.html",
+    "imageUrl": "https://static.wixstatic.com/media/5fe068_305d2506f2de4c86aaa0b2d63a17921e~mv2.jpg/v1/fill/w_250,h_400,al_c,q_80,enc_auto/5fe068_305d2506f2de4c86aaa0b2d63a17921e~mv2.jpg",
+    "fuente": "lacamilla",
+    "addedAt": 1777814254359
+  },
+  {
     "name": "Agustina Metro Santa Lucia Santiago Centro",
     "phone": "991414606",
     "whatsappNumber": "56991414606",
@@ -384,17 +417,6 @@
     "addedAt": 1777814254359
   },
   {
-    "name": "Alexia Metro Plaza De Armas Santiago Centro",
-    "phone": "977097710",
-    "whatsappNumber": "56977097710",
-    "whatsappLink": "https://wa.me/56977097710",
-    "city": "metro plaza de armas santiago centro",
-    "url": "https://www.lacamilla.cl/masajes/foro/masajistas-independientesx/18004-alexia-metro-plaza-de-armas-santiago-centro.html",
-    "imageUrl": "https://static.wixstatic.com/media/5fe068_305d2506f2de4c86aaa0b2d63a17921e~mv2.jpg/v1/fill/w_250,h_400,al_c,q_80,enc_auto/5fe068_305d2506f2de4c86aaa0b2d63a17921e~mv2.jpg",
-    "fuente": "lacamilla",
-    "addedAt": 1777814254359
-  },
-  {
     "name": "Josefa Metro Santa Lucia Santiago Centro",
     "phone": "933421737",
     "whatsappNumber": "56933421737",
@@ -402,28 +424,6 @@
     "city": "metro santa lucia santiago centro",
     "url": "https://www.lacamilla.cl/masajes/foro/masajistas-independientesx/17898-josefa-metro-santa-lucia-santiago-centro.html",
     "imageUrl": "https://static.wixstatic.com/media/5fe068_cb40fbfd7ee14f0cb04e9addfab8c9d2~mv2.jpg/v1/fill/w_250,h_400,al_c,q_80,enc_auto/5fe068_cb40fbfd7ee14f0cb04e9addfab8c9d2~mv2.jpg",
-    "fuente": "lacamilla",
-    "addedAt": 1777814254359
-  },
-  {
-    "name": "Samantha",
-    "phone": "992182581",
-    "whatsappNumber": "56992182581",
-    "whatsappLink": "https://wa.me/56992182581",
-    "city": "Metro Plaza de Armas",
-    "imageUrl": "",
-    "servicio": "Masajes a caballeros",
-    "fuente": "sinscrap",
-    "addedAt": 1777814254359
-  },
-  {
-    "name": "Luna Metro Santa Lucia Santiago Centro",
-    "phone": "958360403",
-    "whatsappNumber": "56958360403",
-    "whatsappLink": "https://wa.me/56958360403",
-    "city": "metro santa lucia santiago centro",
-    "url": "https://www.lacamilla.cl/masajes/foro/masajistas-independientesx/17969-luna-metro-santa-lucia-santiago-centro.html",
-    "imageUrl": "https://static.wixstatic.com/media/5fe068_1eb4993c5de94a3c97d93fa36c1d8a4c~mv2.jpg/v1/fill/w_250,h_400,al_c,q_80,enc_auto/5fe068_1eb4993c5de94a3c97d93fa36c1d8a4c~mv2.jpg",
     "fuente": "lacamilla",
     "addedAt": 1777814254359
   },
