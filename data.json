@@ -2559,80 +2559,14 @@
     "addedAt": 1778001543511
   },
   {
-    "name": "Valeria",
-    "phone": "993004229",
-    "whatsappNumber": "56993004229",
-    "whatsappLink": "https://wa.me/56993004229",
+    "name": "Sofi",
+    "phone": "990302930",
+    "whatsappNumber": "56990302930",
+    "whatsappLink": "https://wa.me/56990302930",
     "city": "Santiago",
-    "url": "https://chikas.cl/valeria",
+    "url": "https://chikas.cl/sofi",
     "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/05/chikas_nueva-modelo-02052026_620476-400x400.jpeg?v=1777761568",
-    "addedAt": 1778001543511
-  },
-  {
-    "name": "MeganVip",
-    "phone": "938874614",
-    "whatsappNumber": "56938874614",
-    "whatsappLink": "https://wa.me/56938874614",
-    "city": "Santiago",
-    "url": "https://chikas.cl/meganvip",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/03/chikas_nueva-modelo-04032026_417677-400x400.jpeg?v=1772636114",
-    "addedAt": 1778001543511
-  },
-  {
-    "name": "Roma",
-    "phone": "937422105",
-    "whatsappNumber": "56937422105",
-    "whatsappLink": "https://wa.me/56937422105",
-    "city": "Santiago",
-    "url": "https://chikas.cl/roma",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/01/chikas_nueva-modelo-profile-29012026_941100-400x400.jpeg",
-    "addedAt": 1778001543511
-  },
-  {
-    "name": "Pascal",
-    "phone": "945829450",
-    "whatsappNumber": "56945829450",
-    "whatsappLink": "https://wa.me/56945829450",
-    "city": "Santiago",
-    "url": "https://chikas.cl/pascal",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2024/01/chikas_pascal-09012025_911206-500x500.jpg?v=1737526674",
-    "addedAt": 1778001543511
-  },
-  {
-    "name": "Izza",
-    "phone": "950506071",
-    "whatsappNumber": "56950506071",
-    "whatsappLink": "https://wa.me/56950506071",
-    "city": "Santiago",
-    "url": "https://chikas.cl/izza",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/01/chikas_nueva-modelo-profile-30012026_876984-400x400.jpg",
-    "addedAt": 1778001543511
-  },
-  {
-    "name": "Ciara",
-    "phone": "978511042",
-    "whatsappNumber": "56978511042",
-    "whatsappLink": "https://wa.me/56978511042",
-    "city": "Santiago",
-    "url": "https://chikas.cl/ciara",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/03/chikas_ciara-17032026_006032-400x400.jpg?v=1773747558",
-    "addedAt": 1778001543511
-  },
-  {
-    "name": "Pamela",
-    "phone": "944247243",
-    "whatsappNumber": "56944247243",
-    "whatsappLink": "https://wa.me/56944247243",
-    "city": "Santiago",
-    "url": "https://chikas.cl/pamela",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2025/11/chikas_nueva-modelo-profile-20112025_884162-400x400.jpeg",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/05/chikas_nueva-modelo-04052026_755267-400x400.jpeg?v=1777918338",
     "addedAt": 1778001543511
   },
   {
@@ -2644,17 +2578,6 @@
     "url": "https://chikas.cl/anyi",
     "fuente": "chikas",
     "imageUrl": "https://chikas.cl/wp-content/uploads/2026/01/chikas_anyi-20042026_131925-400x400.jpg?v=1776714801",
-    "addedAt": 1778001543511
-  },
-  {
-    "name": "Sofi",
-    "phone": "990302930",
-    "whatsappNumber": "56990302930",
-    "whatsappLink": "https://wa.me/56990302930",
-    "city": "Santiago",
-    "url": "https://chikas.cl/sofi",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/05/chikas_nueva-modelo-04052026_755267-400x400.jpeg?v=1777918338",
     "addedAt": 1778001543511
   },
   {
@@ -2713,6 +2636,28 @@
     "addedAt": 1778001543511
   },
   {
+    "name": "Pascal",
+    "phone": "945829450",
+    "whatsappNumber": "56945829450",
+    "whatsappLink": "https://wa.me/56945829450",
+    "city": "Santiago",
+    "url": "https://chikas.cl/pascal",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2024/01/chikas_pascal-09012025_911206-500x500.jpg?v=1737526674",
+    "addedAt": 1778001543511
+  },
+  {
+    "name": "Valeria",
+    "phone": "993004229",
+    "whatsappNumber": "56993004229",
+    "whatsappLink": "https://wa.me/56993004229",
+    "city": "Santiago",
+    "url": "https://chikas.cl/valeria",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/05/chikas_nueva-modelo-02052026_620476-400x400.jpeg?v=1777761568",
+    "addedAt": 1778001543511
+  },
+  {
     "name": "Anasofia",
     "phone": "973597249",
     "whatsappNumber": "56973597249",
@@ -2734,6 +2679,61 @@
     "fuente": "chikas",
     "imageUrl": "https://chikas.cl/wp-content/uploads/2026/04/chikas_sofia-08042026_322475-400x400.jpeg?v=1775679862",
     "addedAt": 1778001543511
+  },
+  {
+    "name": "MeganVip",
+    "phone": "938874614",
+    "whatsappNumber": "56938874614",
+    "whatsappLink": "https://wa.me/56938874614",
+    "city": "Santiago",
+    "url": "https://chikas.cl/meganvip",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/03/chikas_nueva-modelo-04032026_417677-400x400.jpeg?v=1772636114",
+    "addedAt": 1778001543511
+  },
+  {
+    "name": "Roma",
+    "phone": "937422105",
+    "whatsappNumber": "56937422105",
+    "whatsappLink": "https://wa.me/56937422105",
+    "city": "Santiago",
+    "url": "https://chikas.cl/roma",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/01/chikas_nueva-modelo-profile-29012026_941100-400x400.jpeg",
+    "addedAt": 1778001543511
+  },
+  {
+    "name": "Stefania",
+    "phone": "949858124",
+    "whatsappNumber": "56949858124",
+    "whatsappLink": "https://wa.me/56949858124",
+    "city": "Santiago",
+    "url": "https://chikas.cl/stefania",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2022/04/chikas_stefania-30032026_474268-400x400.jpg?v=1774869058",
+    "addedAt": 1777814254359
+  },
+  {
+    "name": "Pamela",
+    "phone": "944247243",
+    "whatsappNumber": "56944247243",
+    "whatsappLink": "https://wa.me/56944247243",
+    "city": "Santiago",
+    "url": "https://chikas.cl/pamela",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2025/11/chikas_nueva-modelo-profile-20112025_884162-400x400.jpeg",
+    "addedAt": 1778001543511
+  },
+  {
+    "name": "Alexandra",
+    "phone": "927324513",
+    "whatsappNumber": "56927324513",
+    "whatsappLink": "https://wa.me/56927324513",
+    "city": "Santiago",
+    "url": "https://chikas.cl/alexandra",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2025/10/chikas_nueva-modelo-profile-29102025_035020-400x400.jpeg",
+    "addedAt": 1778242857454
   },
   {
     "name": "Hilary",
@@ -2879,6 +2879,17 @@
     "addedAt": 1778031189900
   },
   {
+    "name": "Flor",
+    "phone": "941224066",
+    "whatsappNumber": "56941224066",
+    "whatsappLink": "https://wa.me/56941224066",
+    "city": "Santiago",
+    "imageUrl": "https://d3deeyinu4bpuz.cloudfront.net/profile-pictures/228b7b06-5285-4c3a-b36f-d84076407aa3/ab7485a3-75fa-438f-83bf-b7d6114f439f.webp",
+    "url": "https://www.escortsxxx.cl/vip/flor",
+    "fuente": "escortsxxx",
+    "addedAt": 1778242857454
+  },
+  {
     "name": "Javi",
     "phone": "940838202",
     "whatsappNumber": "56940838202",
@@ -2923,6 +2934,50 @@
     "addedAt": 1778031189900
   },
   {
+    "name": "Karla",
+    "phone": "927712545",
+    "whatsappNumber": "56927712545",
+    "whatsappLink": "https://wa.me/56927712545",
+    "city": "Santiago",
+    "imageUrl": "https://d3deeyinu4bpuz.cloudfront.net/profile-pictures/c6b0868e-9607-4d7d-9c7a-8e6dbf9af41a/320547fe-23af-42fe-965b-454c5f760ecc.webp",
+    "url": "https://www.escortsxxx.cl/vip/karla",
+    "fuente": "escortsxxx",
+    "addedAt": 1778242857454
+  },
+  {
+    "name": "Cecilia",
+    "phone": "949817404",
+    "whatsappNumber": "56949817404",
+    "whatsappLink": "https://wa.me/56949817404",
+    "city": "Santiago",
+    "imageUrl": "https://d3deeyinu4bpuz.cloudfront.net/profile-pictures/e7e35859-5579-4832-897a-58829efc7ffc/c2d6b1b4-467f-4bbe-b681-9fa52d2dcfa5.webp",
+    "url": "https://www.escortsxxx.cl/vip/cecilia",
+    "fuente": "escortsxxx",
+    "addedAt": 1777948176539
+  },
+  {
+    "name": "Leslye",
+    "phone": "952041433",
+    "whatsappNumber": "56952041433",
+    "whatsappLink": "https://wa.me/56952041433",
+    "city": "Santiago",
+    "imageUrl": "https://d3deeyinu4bpuz.cloudfront.net/profile-pictures/40535b5a-c651-4a5f-8945-1f04efe6d010/45b5fb4d-fd0e-45b3-a4f9-dc93aec9bb46.webp",
+    "url": "https://www.escortsxxx.cl/vip/leslye",
+    "fuente": "escortsxxx",
+    "addedAt": 1778242857454
+  },
+  {
+    "name": "Leidy",
+    "phone": "940632286",
+    "whatsappNumber": "56940632286",
+    "whatsappLink": "https://wa.me/56940632286",
+    "city": "Santiago",
+    "imageUrl": "https://d3deeyinu4bpuz.cloudfront.net/profile-pictures/6bed706f-ea01-4122-ac84-418dd4f7f4f3/28c7cd87-94fd-41ae-9da4-b43bc6292812.webp",
+    "url": "https://www.escortsxxx.cl/vip/leidy",
+    "fuente": "escortsxxx",
+    "addedAt": 1778242857454
+  },
+  {
     "name": "Maite",
     "phone": "944378217",
     "whatsappNumber": "56944378217",
@@ -2945,6 +3000,17 @@
     "addedAt": 1778031189900
   },
   {
+    "name": "Astrid",
+    "phone": "940139098",
+    "whatsappNumber": "56940139098",
+    "whatsappLink": "https://wa.me/56940139098",
+    "city": "Santiago",
+    "imageUrl": "https://d3deeyinu4bpuz.cloudfront.net/profile-pictures/e4a995be-1ca0-4776-a999-d7191c6d08a2/313baf29-7d01-43ee-8a9b-54cf876c9b84.webp",
+    "url": "https://www.escortsxxx.cl/premium/astrid",
+    "fuente": "escortsxxx",
+    "addedAt": 1778242857454
+  },
+  {
     "name": "Renata",
     "phone": "954991317",
     "whatsappNumber": "56954991317",
@@ -2963,61 +3029,6 @@
     "city": "Santiago",
     "imageUrl": "https://d3deeyinu4bpuz.cloudfront.net/profile-pictures/d3feb940-6b40-445e-a931-7354fdf11eb6/d92c7071-852c-461f-ab46-a0c910c5314f.webp",
     "url": "https://www.escortsxxx.cl/premium/aylen",
-    "fuente": "escortsxxx",
-    "addedAt": 1778031189900
-  },
-  {
-    "name": "Greta",
-    "phone": "932597670",
-    "whatsappNumber": "56932597670",
-    "whatsappLink": "https://wa.me/56932597670",
-    "city": "Santiago",
-    "imageUrl": "https://d3deeyinu4bpuz.cloudfront.net/profile-pictures/d47e7024-8a23-4b37-b95e-d5f4196c82ee/7c762c06-af65-4af1-bb87-73910c3c34ca.webp",
-    "url": "https://www.escortsxxx.cl/premium/greta",
-    "fuente": "escortsxxx",
-    "addedAt": 1778031189900
-  },
-  {
-    "name": "Love",
-    "phone": "965268150",
-    "whatsappNumber": "56965268150",
-    "whatsappLink": "https://wa.me/56965268150",
-    "city": "Santiago",
-    "imageUrl": "https://d3deeyinu4bpuz.cloudfront.net/profile-pictures/914df8e2-1f46-4f1c-8c33-ff8311b80aed/f2598a57-317e-4990-baf4-9ed7f8b08475.webp",
-    "url": "https://www.escortsxxx.cl/premium/love",
-    "fuente": "escortsxxx",
-    "addedAt": 1778031189900
-  },
-  {
-    "name": "Arias",
-    "phone": "995739172",
-    "whatsappNumber": "56995739172",
-    "whatsappLink": "https://wa.me/56995739172",
-    "city": "Santiago",
-    "imageUrl": "https://d3deeyinu4bpuz.cloudfront.net/profile-pictures/b240ef83-d470-4e16-93f1-895588b95358/00473ece-3830-4f57-8123-48407c3fb007.webp",
-    "url": "https://www.escortsxxx.cl/premium/arias",
-    "fuente": "escortsxxx",
-    "addedAt": 1778031189900
-  },
-  {
-    "name": "Lorenita",
-    "phone": "921819172",
-    "whatsappNumber": "56921819172",
-    "whatsappLink": "https://wa.me/56921819172",
-    "city": "Santiago",
-    "imageUrl": "https://d3deeyinu4bpuz.cloudfront.net/profile-pictures/dc362eb7-d790-479b-83c0-fe2875cc7d82/24b9a81e-bb9e-4970-b3ed-e1a3583d44c1.webp",
-    "url": "https://www.escortsxxx.cl/premium/loremita",
-    "fuente": "escortsxxx",
-    "addedAt": 1778031189900
-  },
-  {
-    "name": "Mia",
-    "phone": "979489140",
-    "whatsappNumber": "56979489140",
-    "whatsappLink": "https://wa.me/56979489140",
-    "city": "Santiago",
-    "imageUrl": "https://d3deeyinu4bpuz.cloudfront.net/profile-pictures/b1e57d1b-2fe1-4e23-ac15-5d33cc67f07d/36585819-02c5-4387-ac7e-26262b6e1037.webp",
-    "url": "https://www.escortsxxx.cl/premium/mia",
     "fuente": "escortsxxx",
     "addedAt": 1778031189900
   },
