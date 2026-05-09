@@ -8550,5 +8550,27 @@
     "fuente": "paradisse",
     "imageUrl": "https://paradisse.cl//storage/avatar/EYhj93QR21042MpDM7maIFSQFlkbJqiKUxNjg2ko.jpg",
     "addedAt": 1778273904774
+  },
+  {
+    "name": "Diosa",
+    "phone": "920593766",
+    "whatsappNumber": "56920593766",
+    "whatsappLink": "https://wa.me/56920593766",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/diosa-711425",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/711425/stories/17280118/270w.jpg",
+    "addedAt": 1778291444228
+  },
+  {
+    "name": "Michelle",
+    "phone": "945769707",
+    "whatsappNumber": "56945769707",
+    "whatsappLink": "https://wa.me/56945769707",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/michelle-358625",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/358625/stories/17239140/270w.jpg",
+    "addedAt": 1778291444228
   }
 ]
