@@ -8824,5 +8824,17 @@
     "fuente": "chikas",
     "imageUrl": "https://chikas.cl/wp-content/uploads/2025/04/chikas_saeko-25112025_894084-400x400.jpeg?v=1764100474",
     "addedAt": 1778556711084
+  },
+  {
+    "name": "Marcela",
+    "phone": "994933618",
+    "whatsappNumber": "56994933618",
+    "whatsappLink": "https://wa.me/56994933618",
+    "city": "Santiago",
+    "imageUrl": "https://ponelo.cl/avisos/images/marcela/413148_1778539888_0_1187_tmb2.jpg",
+    "servicio": "",
+    "url": "https://ponelo.cl/avisos/detail-mobil.php?id=413148",
+    "fuente": "ponelo",
+    "addedAt": 1778562939475
   }
 ]
