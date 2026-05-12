@@ -8791,5 +8791,38 @@
     "fuente": "gemidos",
     "imageUrl": "https://cdn.gemidos.tv/upload/1190380/stories/17333276/270w.jpg",
     "addedAt": 1778554634427
+  },
+  {
+    "name": "Anais",
+    "phone": "928483504",
+    "whatsappNumber": "56928483504",
+    "whatsappLink": "https://wa.me/56928483504",
+    "city": "Santiago",
+    "url": "https://chikas.cl/anais",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/02/chikas_anais-11052026_291270-400x400.jpeg?v=1778527989",
+    "addedAt": 1778556711084
+  },
+  {
+    "name": "Leonor",
+    "phone": "928345354",
+    "whatsappNumber": "56928345354",
+    "whatsappLink": "https://wa.me/56928345354",
+    "city": "Santiago",
+    "url": "https://chikas.cl/leonor",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/03/chikas_nueva-modelo-03032026_808131-400x400.jpeg?v=1772543034",
+    "addedAt": 1778556711084
+  },
+  {
+    "name": "Saeko",
+    "phone": "979581580",
+    "whatsappNumber": "56979581580",
+    "whatsappLink": "https://wa.me/56979581580",
+    "city": "Santiago",
+    "url": "https://chikas.cl/saeko",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2025/04/chikas_saeko-25112025_894084-400x400.jpeg?v=1764100474",
+    "addedAt": 1778556711084
   }
 ]
