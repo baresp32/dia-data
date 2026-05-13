@@ -9352,5 +9352,38 @@
     "fuente": "gemidos",
     "imageUrl": "https://cdn.gemidos.tv/upload/1226997/stories/17289358/270w.jpg",
     "addedAt": 1778674714114
+  },
+  {
+    "name": "Nicol",
+    "phone": "984430705",
+    "whatsappNumber": "56984430705",
+    "whatsappLink": "https://wa.me/56984430705",
+    "city": "Santiago",
+    "url": "https://chikas.cl/nicol",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/05/chikas_nueva-modelo-12052026_185459-400x400.jpg?v=1778592555",
+    "addedAt": 1778676789338
+  },
+  {
+    "name": "Candi",
+    "phone": "990850832",
+    "whatsappNumber": "56990850832",
+    "whatsappLink": "https://wa.me/56990850832",
+    "city": "Santiago",
+    "url": "https://chikas.cl/candi",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/03/chikas_nueva-modelo-11032026_184153-400x400.jpeg?v=1773261758",
+    "addedAt": 1778676789338
+  },
+  {
+    "name": "Tati",
+    "phone": "968285804",
+    "whatsappNumber": "56968285804",
+    "whatsappLink": "https://wa.me/56968285804",
+    "city": "Santiago",
+    "url": "https://chikas.cl/tati",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/02/chikas_nueva-modelo-profile-11022026_194399-400x400.jpeg",
+    "addedAt": 1778676789338
   }
 ]
