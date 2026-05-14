@@ -2318,17 +2318,6 @@
     "addedAt": 1778001543511
   },
   {
-    "name": "Azul",
-    "phone": "5493513854932",
-    "whatsappNumber": "5493513854932",
-    "whatsappLink": "https://wa.me/5493513854932",
-    "city": "Santiago",
-    "url": "https://gemidos.tv/azul-860921",
-    "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/860921/stories/17356831/270w.jpg",
-    "addedAt": 1778674714114
-  },
-  {
     "name": "Belen",
     "phone": "944792195",
     "whatsappNumber": "56944792195",
@@ -2336,30 +2325,19 @@
     "city": "Santiago",
     "url": "https://gemidos.tv/belen-412838",
     "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/412838/stories/17365861/270w.jpg",
+    "imageUrl": "https://cdn.gemidos.tv/upload/412838/stories/17387148/270w.jpg",
     "addedAt": 1777850113477
   },
   {
-    "name": "Celine",
-    "phone": "972282195",
-    "whatsappNumber": "56972282195",
-    "whatsappLink": "https://wa.me/56972282195",
+    "name": "Lya",
+    "phone": "927770670",
+    "whatsappNumber": "56927770670",
+    "whatsappLink": "https://wa.me/56927770670",
     "city": "Santiago",
-    "url": "https://gemidos.tv/celine-989463",
+    "url": "https://gemidos.tv/lya-861681",
     "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/989463/stories/17367149/270w.jpg",
-    "addedAt": 1778674714114
-  },
-  {
-    "name": "Pia",
-    "phone": "921791686",
-    "whatsappNumber": "56921791686",
-    "whatsappLink": "https://wa.me/56921791686",
-    "city": "Santiago",
-    "url": "https://gemidos.tv/pia-723660",
-    "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/723660/stories/17358014/270w.jpg",
-    "addedAt": 1778674714114
+    "imageUrl": "https://cdn.gemidos.tv/upload/861681/stories/16268379/270w.jpg",
+    "addedAt": 1778764455283
   },
   {
     "name": "Josefina",
@@ -2369,41 +2347,30 @@
     "city": "Santiago",
     "url": "https://gemidos.tv/josefina-857891",
     "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/857891/stories/17358945/270w.jpg",
+    "imageUrl": "https://cdn.gemidos.tv/upload/857891/stories/17368717/270w.jpg",
     "addedAt": 1778674714114
   },
   {
-    "name": "Lilith",
-    "phone": "979688828",
-    "whatsappNumber": "56979688828",
-    "whatsappLink": "https://wa.me/56979688828",
+    "name": "Daniela",
+    "phone": "936102391",
+    "whatsappNumber": "56936102391",
+    "whatsappLink": "https://wa.me/56936102391",
     "city": "Santiago",
-    "url": "https://gemidos.tv/lilith-322677",
+    "url": "https://gemidos.tv/daniela-752366",
     "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/322677/stories/17342754/270w.jpg",
-    "addedAt": 1777893131804
+    "imageUrl": "https://cdn.gemidos.tv/upload/752366/stories/14077326/270w.jpg",
+    "addedAt": 1777850113477
   },
   {
-    "name": "Roma",
-    "phone": "955133984",
-    "whatsappNumber": "56955133984",
-    "whatsappLink": "https://wa.me/56955133984",
+    "name": "Pascal",
+    "phone": "922467576",
+    "whatsappNumber": "56922467576",
+    "whatsappLink": "https://wa.me/56922467576",
     "city": "Santiago",
-    "url": "https://gemidos.tv/roma-1069849",
+    "url": "https://gemidos.tv/pascal-954115",
     "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/1069849/stories/17274833/270w.jpg",
-    "addedAt": 1778674714114
-  },
-  {
-    "name": "Isabella",
-    "phone": "929228623",
-    "whatsappNumber": "56929228623",
-    "whatsappLink": "https://wa.me/56929228623",
-    "city": "Santiago",
-    "url": "https://gemidos.tv/isabella-1208363",
-    "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/1208363/stories/17119132/270w.jpg",
-    "addedAt": 1778674714114
+    "imageUrl": "https://cdn.gemidos.tv/upload/954115/stories/17375850/270w.jpg",
+    "addedAt": 1777948176539
   },
   {
     "name": "Daniela",
@@ -2428,26 +2395,15 @@
     "addedAt": 1777981804423
   },
   {
-    "name": "Vale",
-    "phone": "974152569",
-    "whatsappNumber": "56974152569",
-    "whatsappLink": "https://wa.me/56974152569",
+    "name": "Antonia",
+    "phone": "928208359",
+    "whatsappNumber": "56928208359",
+    "whatsappLink": "https://wa.me/56928208359",
     "city": "Santiago",
-    "url": "https://gemidos.tv/vale-648804",
+    "url": "https://gemidos.tv/antonia-512425",
     "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/648804/stories/17358091/270w.jpg",
-    "addedAt": 1778674714114
-  },
-  {
-    "name": "Melody",
-    "phone": "959506341",
-    "whatsappNumber": "56959506341",
-    "whatsappLink": "https://wa.me/56959506341",
-    "city": "Santiago",
-    "url": "https://gemidos.tv/melody-1070920",
-    "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/1070920/stories/15514139/270w.jpg",
-    "addedAt": 1777981804423
+    "imageUrl": "https://cdn.gemidos.tv/upload/512425/stories/17380463/270w.jpg",
+    "addedAt": 1777893131804
   },
   {
     "name": "Luz",
@@ -2457,52 +2413,63 @@
     "city": "Santiago",
     "url": "https://gemidos.tv/luz-424032",
     "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/424032/stories/17292585/270w.jpg",
+    "imageUrl": "https://cdn.gemidos.tv/upload/424032/stories/17292578/270w.jpg",
     "addedAt": 1778674714114
   },
   {
-    "name": "Daniela",
-    "phone": "936102391",
-    "whatsappNumber": "56936102391",
-    "whatsappLink": "https://wa.me/56936102391",
+    "name": "Mia",
+    "phone": "958563025",
+    "whatsappNumber": "56958563025",
+    "whatsappLink": "https://wa.me/56958563025",
     "city": "Santiago",
-    "url": "https://gemidos.tv/daniela-752366",
+    "url": "https://gemidos.tv/mia-1204884",
     "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/752366/stories/11236035/270w.jpg",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1204884/stories/17057567/270w.jpg",
+    "addedAt": 1777893131804
+  },
+  {
+    "name": "Alexia",
+    "phone": "926299537",
+    "whatsappNumber": "56926299537",
+    "whatsappLink": "https://wa.me/56926299537",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/alexia-1175316",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1175316/9605234/b87d102f/270w.jpg",
     "addedAt": 1777850113477
   },
   {
-    "name": "Alessandra",
-    "phone": "964206468",
-    "whatsappNumber": "56964206468",
-    "whatsappLink": "https://wa.me/56964206468",
+    "name": "Isabella",
+    "phone": "929228623",
+    "whatsappNumber": "56929228623",
+    "whatsappLink": "https://wa.me/56929228623",
     "city": "Santiago",
-    "url": "https://gemidos.tv/alessandra-737006",
+    "url": "https://gemidos.tv/isabella-1208363",
     "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/737006/stories/17365539/270w.jpg",
-    "addedAt": 1777948176539
-  },
-  {
-    "name": "Valentina",
-    "phone": "953972021",
-    "whatsappNumber": "56953972021",
-    "whatsappLink": "https://wa.me/56953972021",
-    "city": "Santiago",
-    "url": "https://gemidos.tv/valentina-892794",
-    "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/892794/5451654/90d609c1/270w.jpg",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1208363/stories/17313508/270w.jpg",
     "addedAt": 1778674714114
   },
   {
-    "name": "Carito",
-    "phone": "984555045",
-    "whatsappNumber": "56984555045",
-    "whatsappLink": "https://wa.me/56984555045",
+    "name": "Adri",
+    "phone": "972281178",
+    "whatsappNumber": "56972281178",
+    "whatsappLink": "https://wa.me/56972281178",
     "city": "Santiago",
-    "url": "https://gemidos.tv/carito-1115927",
+    "url": "https://gemidos.tv/adri-1190380",
     "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/1115927/stories/16020502/270w.jpg",
-    "addedAt": 1777948176539
+    "imageUrl": "https://cdn.gemidos.tv/upload/1190380/stories/17379161/270w.jpg",
+    "addedAt": 1778554634427
+  },
+  {
+    "name": "Samantha",
+    "phone": "972506912",
+    "whatsappNumber": "56972506912",
+    "whatsappLink": "https://wa.me/56972506912",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/samantha-1226997",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1226997/stories/17379210/270w.jpg",
+    "addedAt": 1778674714114
   },
   {
     "name": "Tiffany",
@@ -2512,7 +2479,7 @@
     "city": "Santiago",
     "url": "https://gemidos.tv/tiffany-1197464",
     "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/1197464/stories/17360506/270w.jpg",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1197464/stories/17387190/270w.jpg",
     "addedAt": 1778674714114
   },
   {
@@ -2523,19 +2490,52 @@
     "city": "Santiago",
     "url": "https://gemidos.tv/camila-1189981",
     "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/1189981/stories/17362585/270w.jpg",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1189981/stories/17387120/270w.jpg",
     "addedAt": 1778291444228
   },
   {
-    "name": "Samantha",
-    "phone": "972506912",
-    "whatsappNumber": "56972506912",
-    "whatsappLink": "https://wa.me/56972506912",
+    "name": "Danna",
+    "phone": "972766725",
+    "whatsappNumber": "56972766725",
+    "whatsappLink": "https://wa.me/56972766725",
     "city": "Santiago",
-    "url": "https://gemidos.tv/samantha-1226997",
+    "url": "https://gemidos.tv/danna-794096",
     "fuente": "gemidos",
-    "imageUrl": "https://cdn.gemidos.tv/upload/1226997/stories/17289358/270w.jpg",
-    "addedAt": 1778674714114
+    "imageUrl": "https://cdn.gemidos.tv/upload/794096/stories/17242381/270w.jpg",
+    "addedAt": 1778764455283
+  },
+  {
+    "name": "Mia",
+    "phone": "967062815",
+    "whatsappNumber": "56967062815",
+    "whatsappLink": "https://wa.me/56967062815",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/mia-1236881",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1236881/stories/17377201/270w.jpg",
+    "addedAt": 1778764455283
+  },
+  {
+    "name": "Amelia",
+    "phone": "929808586",
+    "whatsappNumber": "56929808586",
+    "whatsappLink": "https://wa.me/56929808586",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/amelia-786531",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/786531/stories/17374814/270w.jpg",
+    "addedAt": 1778764455283
+  },
+  {
+    "name": "Paula",
+    "phone": "995123654",
+    "whatsappNumber": "56995123654",
+    "whatsappLink": "https://wa.me/56995123654",
+    "city": "Santiago",
+    "url": "https://chaopescao.cl/santiago/escorts/#30577",
+    "fuente": "chaopescao",
+    "imageUrl": "https://media2.chaopescao.cl/crop/450x625/69e7c05e5557b/photos/web/t69fe1ae1e775e_v.webp?_=1778262944",
+    "addedAt": 1777828974294
   },
   {
     "name": "Pascal",
@@ -2866,17 +2866,6 @@
     "fuente": "chaopescao",
     "imageUrl": "https://media2.chaopescao.cl/crop/450x625/6813b314772a3/photos/web/t69fe7ab09c97a_v.webp?_=1778287586",
     "addedAt": 1778115352853
-  },
-  {
-    "name": "Paula",
-    "phone": "995123654",
-    "whatsappNumber": "56995123654",
-    "whatsappLink": "https://wa.me/56995123654",
-    "city": "Santiago",
-    "url": "https://chaopescao.cl/santiago/escorts/#30577",
-    "fuente": "chaopescao",
-    "imageUrl": "https://media2.chaopescao.cl/crop/450x625/69e7c05e5557b/photos/web/t69fe1ae1e775e_v.webp?_=1778262944",
-    "addedAt": 1777828974294
   },
   {
     "name": "Diabla",

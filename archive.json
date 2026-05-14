@@ -9614,5 +9614,49 @@
     "fuente": "perversas",
     "imageUrl": "https://www.perversas.cl/images/posts/gabi-santiago-8229-1-94298355-md.webp",
     "addedAt": 1778758489066
+  },
+  {
+    "name": "Lya",
+    "phone": "927770670",
+    "whatsappNumber": "56927770670",
+    "whatsappLink": "https://wa.me/56927770670",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/lya-861681",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/861681/stories/16268379/270w.jpg",
+    "addedAt": 1778764455283
+  },
+  {
+    "name": "Danna",
+    "phone": "972766725",
+    "whatsappNumber": "56972766725",
+    "whatsappLink": "https://wa.me/56972766725",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/danna-794096",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/794096/stories/17242381/270w.jpg",
+    "addedAt": 1778764455283
+  },
+  {
+    "name": "Mia",
+    "phone": "967062815",
+    "whatsappNumber": "56967062815",
+    "whatsappLink": "https://wa.me/56967062815",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/mia-1236881",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1236881/stories/17377201/270w.jpg",
+    "addedAt": 1778764455283
+  },
+  {
+    "name": "Amelia",
+    "phone": "929808586",
+    "whatsappNumber": "56929808586",
+    "whatsappLink": "https://wa.me/56929808586",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/amelia-786531",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/786531/stories/17374814/270w.jpg",
+    "addedAt": 1778764455283
   }
 ]
