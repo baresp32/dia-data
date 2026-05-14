@@ -2378,9 +2378,9 @@
     "whatsappNumber": "56961934489",
     "whatsappLink": "https://wa.me/56961934489",
     "city": "Santiago",
-    "url": "https://chikas.cl/daniela",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/04/chikas_daniela-08042026_401683-400x400.jpeg?v=1775700413",
+    "url": "https://gemidos.tv/daniela-478929",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/478929/stories/17380785/270w.jpg",
     "addedAt": 1777850113477
   },
   {
@@ -2549,17 +2549,6 @@
     "addedAt": 1778001543511
   },
   {
-    "name": "Roma",
-    "phone": "937422105",
-    "whatsappNumber": "56937422105",
-    "whatsappLink": "https://wa.me/56937422105",
-    "city": "Santiago",
-    "url": "https://chikas.cl/roma",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/01/chikas_nueva-modelo-profile-29012026_941100-400x400.jpeg",
-    "addedAt": 1778001543511
-  },
-  {
     "name": "Valeria",
     "phone": "993004229",
     "whatsappNumber": "56993004229",
@@ -2582,15 +2571,15 @@
     "addedAt": 1778001543511
   },
   {
-    "name": "Nicol",
-    "phone": "984430705",
-    "whatsappNumber": "56984430705",
-    "whatsappLink": "https://wa.me/56984430705",
+    "name": "Roma",
+    "phone": "937422105",
+    "whatsappNumber": "56937422105",
+    "whatsappLink": "https://wa.me/56937422105",
     "city": "Santiago",
-    "url": "https://chikas.cl/nicol",
+    "url": "https://chikas.cl/roma",
     "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/05/chikas_nueva-modelo-12052026_185459-400x400.jpg?v=1778592555",
-    "addedAt": 1778676789338
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/01/chikas_nueva-modelo-profile-29012026_941100-400x400.jpeg",
+    "addedAt": 1778001543511
   },
   {
     "name": "Anyi",
@@ -2602,6 +2591,17 @@
     "fuente": "chikas",
     "imageUrl": "https://chikas.cl/wp-content/uploads/2026/01/chikas_anyi-08052026_545510-400x400.jpg?v=1778271929",
     "addedAt": 1778001543511
+  },
+  {
+    "name": "Nicol",
+    "phone": "984430705",
+    "whatsappNumber": "56984430705",
+    "whatsappLink": "https://wa.me/56984430705",
+    "city": "Santiago",
+    "url": "https://chikas.cl/nicol",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/05/chikas_nueva-modelo-12052026_185459-400x400.jpg?v=1778592555",
+    "addedAt": 1778676789338
   },
   {
     "name": "Sofi",
@@ -2626,14 +2626,14 @@
     "addedAt": 1778001543511
   },
   {
-    "name": "Sandy",
-    "phone": "984337121",
-    "whatsappNumber": "56984337121",
-    "whatsappLink": "https://wa.me/56984337121",
+    "name": "Alana",
+    "phone": "922142754",
+    "whatsappNumber": "56922142754",
+    "whatsappLink": "https://wa.me/56922142754",
     "city": "Santiago",
-    "url": "https://chikas.cl/sandy",
+    "url": "https://chikas.cl/alana",
     "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2025/01/chikas_sandy-04122025_748759-400x400.jpg?v=1764902754",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/04/chikas_alana-20042026_162924-400x400.jpeg?v=1776727912",
     "addedAt": 1778001543511
   },
   {
@@ -2648,17 +2648,6 @@
     "addedAt": 1778556711084
   },
   {
-    "name": "Alana",
-    "phone": "922142754",
-    "whatsappNumber": "56922142754",
-    "whatsappLink": "https://wa.me/56922142754",
-    "city": "Santiago",
-    "url": "https://chikas.cl/alana",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/04/chikas_alana-20042026_162924-400x400.jpeg?v=1776727912",
-    "addedAt": 1778001543511
-  },
-  {
     "name": "Andreita",
     "phone": "920809648",
     "whatsappNumber": "56920809648",
@@ -2667,6 +2656,17 @@
     "url": "https://chikas.cl/andreita",
     "fuente": "chikas",
     "imageUrl": "https://chikas.cl/wp-content/uploads/2025/10/chikas_andreita-29102025_983260-400x400.jpg?v=1761776737",
+    "addedAt": 1778001543511
+  },
+  {
+    "name": "Sandy",
+    "phone": "984337121",
+    "whatsappNumber": "56984337121",
+    "whatsappLink": "https://wa.me/56984337121",
+    "city": "Santiago",
+    "url": "https://chikas.cl/sandy",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2025/01/chikas_sandy-04122025_748759-400x400.jpg?v=1764902754",
     "addedAt": 1778001543511
   },
   {
@@ -2681,26 +2681,15 @@
     "addedAt": 1778001543511
   },
   {
-    "name": "Candi",
-    "phone": "990850832",
-    "whatsappNumber": "56990850832",
-    "whatsappLink": "https://wa.me/56990850832",
+    "name": "Sol",
+    "phone": "953529348",
+    "whatsappNumber": "56953529348",
+    "whatsappLink": "https://wa.me/56953529348",
     "city": "Santiago",
-    "url": "https://chikas.cl/candi",
+    "url": "https://chikas.cl/sol",
     "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/03/chikas_nueva-modelo-11032026_184153-400x400.jpeg?v=1773261758",
-    "addedAt": 1778676789338
-  },
-  {
-    "name": "Leonor",
-    "phone": "928345354",
-    "whatsappNumber": "56928345354",
-    "whatsappLink": "https://wa.me/56928345354",
-    "city": "Santiago",
-    "url": "https://chikas.cl/leonor",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/03/chikas_nueva-modelo-03032026_808131-400x400.jpeg?v=1772543034",
-    "addedAt": 1778556711084
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/03/chikas_fefi-08032026_886920-400x400.jpeg?v=1773021922",
+    "addedAt": 1778766530899
   },
   {
     "name": "Tati",
@@ -2712,6 +2701,17 @@
     "fuente": "chikas",
     "imageUrl": "https://chikas.cl/wp-content/uploads/2026/02/chikas_nueva-modelo-profile-11022026_194399-400x400.jpeg",
     "addedAt": 1778676789338
+  },
+  {
+    "name": "Saeko",
+    "phone": "979581580",
+    "whatsappNumber": "56979581580",
+    "whatsappLink": "https://wa.me/56979581580",
+    "city": "Santiago",
+    "url": "https://chikas.cl/saeko",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2025/04/chikas_saeko-25112025_894084-400x400.jpeg?v=1764100474",
+    "addedAt": 1778556711084
   },
   {
     "name": "Mariana",
