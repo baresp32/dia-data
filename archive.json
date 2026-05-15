@@ -9943,5 +9943,38 @@
     "fuente": "gemidos",
     "imageUrl": "https://cdn.gemidos.tv/upload/645699/stories/17401728/270w.jpg",
     "addedAt": 1778851674697
+  },
+  {
+    "name": "Sol",
+    "phone": "946730792",
+    "whatsappNumber": "56946730792",
+    "whatsappLink": "https://wa.me/56946730792",
+    "city": "Santiago",
+    "url": "https://chikas.cl/sol",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/03/chikas_fefi-08032026_886920-400x400.jpeg?v=1773021922",
+    "addedAt": 1778853668036
+  },
+  {
+    "name": "Cami",
+    "phone": "938791853",
+    "whatsappNumber": "56938791853",
+    "whatsappLink": "https://wa.me/56938791853",
+    "city": "Santiago",
+    "url": "https://chikas.cl/cami",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/03/chikas_nueva-modelo-11032026_113046-400x400.jpg?v=1773259690",
+    "addedAt": 1778853668036
+  },
+  {
+    "name": "Maggie",
+    "phone": "927937525",
+    "whatsappNumber": "56927937525",
+    "whatsappLink": "https://wa.me/56927937525",
+    "city": "Santiago",
+    "url": "https://chaopescao.cl/santiago/escorts/#29722",
+    "fuente": "chaopescao",
+    "imageUrl": "https://media2.chaopescao.cl/crop/450x625/699fca3091eaa/photos/web/t69a019223d0bd_cover_v.webp?_=1776998224",
+    "addedAt": 1778853668036
   }
 ]
