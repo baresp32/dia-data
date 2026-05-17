@@ -10218,5 +10218,49 @@
     "imageUrl": "https://www.sectorvip.cl/uploads/monthly_2025_10/2679_28.thumb.webp.64f8154b33498137df56e3368900e39e.webp",
     "fuente": "sectorvip",
     "addedAt": 1778886842231
+  },
+  {
+    "name": "Gabriela",
+    "phone": "976410275",
+    "whatsappNumber": "56976410275",
+    "whatsappLink": "https://wa.me/56976410275",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/gabriela-1239939",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1239939/stories/17439570/270w.jpg",
+    "addedAt": 1778982546735
+  },
+  {
+    "name": "Catalina",
+    "phone": "931743201",
+    "whatsappNumber": "56931743201",
+    "whatsappLink": "https://wa.me/56931743201",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/catalina-988677",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/988677/stories/17428069/270w.jpg",
+    "addedAt": 1778982546735
+  },
+  {
+    "name": "kim",
+    "phone": "922123254",
+    "whatsappNumber": "56922123254",
+    "whatsappLink": "https://wa.me/56922123254",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/kim-427752",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/427752/stories/16197896/270w.jpg",
+    "addedAt": 1778982546735
+  },
+  {
+    "name": "Ignacia",
+    "phone": "990835619",
+    "whatsappNumber": "56990835619",
+    "whatsappLink": "https://wa.me/56990835619",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/ignacia-1007690",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1007690/stories/17434635/270w.jpg",
+    "addedAt": 1778982546735
   }
 ]
