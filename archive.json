@@ -10514,5 +10514,27 @@
     "fuente": "gemidos",
     "imageUrl": "https://cdn.gemidos.tv/upload/1204779/stories/17469418/270w.jpg",
     "addedAt": 1779140123364
+  },
+  {
+    "name": "Sol",
+    "phone": "994890452",
+    "whatsappNumber": "56994890452",
+    "whatsappLink": "https://wa.me/56994890452",
+    "city": "Santiago",
+    "url": "https://chikas.cl/sol",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/03/chikas_fefi-08032026_886920-400x400.jpeg?v=1773021922",
+    "addedAt": 1779142180336
+  },
+  {
+    "name": "Issa",
+    "phone": "945692212",
+    "whatsappNumber": "56945692212",
+    "whatsappLink": "https://wa.me/56945692212",
+    "city": "Santiago",
+    "url": "https://chaopescao.cl/santiago/escorts/#31062",
+    "fuente": "chaopescao",
+    "imageUrl": "https://media2.chaopescao.cl/crop/450x625/6a079c314aac2/photos/web/t6a079acbad69d_v.webp?_=1778883633",
+    "addedAt": 1779142180336
   }
 ]
