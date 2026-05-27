@@ -11972,5 +11972,38 @@
     "fuente": "paradisse",
     "imageUrl": "https://paradisse.cl//storage/avatar/dL6bka4eRjEAqDV1FOHVT6JkKAAno04Si8ZhO9nA.jpg",
     "addedAt": 1779844141960
+  },
+  {
+    "name": "Juliette",
+    "phone": "920931973",
+    "whatsappNumber": "56920931973",
+    "whatsappLink": "https://wa.me/56920931973",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/juliette-1165684",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1165684/stories/17605554/270w.jpg",
+    "addedAt": 1779848293750
+  },
+  {
+    "name": "Katalina",
+    "phone": "961280703",
+    "whatsappNumber": "56961280703",
+    "whatsappLink": "https://wa.me/56961280703",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/katalina-392639",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/392639/stories/17621521/270w.jpg",
+    "addedAt": 1779848293750
+  },
+  {
+    "name": "Tiffany",
+    "phone": "962556732",
+    "whatsappNumber": "56962556732",
+    "whatsappLink": "https://wa.me/56962556732",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/tiffany-1197464",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1197464/stories/17616810/270w.jpg",
+    "addedAt": 1779848293750
   }
 ]
