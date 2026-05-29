@@ -12530,5 +12530,17 @@
     "fuente": "gemidos",
     "imageUrl": "https://cdn.gemidos.tv/upload/939883/stories/16848680/270w.jpg",
     "addedAt": 1780077385010
+  },
+  {
+    "name": "Rosy",
+    "phone": "931294752",
+    "whatsappNumber": "56931294752",
+    "whatsappLink": "https://wa.me/56931294752",
+    "city": "Santiago",
+    "imageUrl": "https://ponelo.cl/avisos/images/rosy/413335_1780055364_0_2571_tmb2.jpg",
+    "servicio": "",
+    "url": "https://ponelo.cl/avisos/detail-mobil.php?id=413335",
+    "fuente": "ponelo",
+    "addedAt": 1780083305641
   }
 ]
