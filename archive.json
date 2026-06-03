@@ -12897,5 +12897,27 @@
     "city": "Providencia",
     "fuente": "economicos",
     "addedAt": 1780277344405
+  },
+  {
+    "name": "Celeste",
+    "phone": "5491130952652",
+    "whatsappNumber": "5491130952652",
+    "whatsappLink": "https://wa.me/5491130952652",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/celeste-1025708",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1025708/stories/16636307/270w.jpg",
+    "addedAt": 1780452125324
+  },
+  {
+    "name": "Amelia",
+    "phone": "929560613",
+    "whatsappNumber": "56929560613",
+    "whatsappLink": "https://wa.me/56929560613",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/amelia-786531",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/786531/stories/17726339/270w.jpg",
+    "addedAt": 1780452125324
   }
 ]
