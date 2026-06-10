@@ -14044,5 +14044,27 @@
     "fuente": "perversas",
     "imageUrl": "https://www.perversas.cl/images/posts/barbarita-santiago-7743-1-77099550-md.webp",
     "addedAt": 1780996889125
+  },
+  {
+    "name": "Catalina",
+    "phone": "920557044",
+    "whatsappNumber": "56920557044",
+    "whatsappLink": "https://wa.me/56920557044",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/catalina-1243901",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1243901/stories/17846935/270w.jpg",
+    "addedAt": 1781049664767
+  },
+  {
+    "name": "Mia",
+    "phone": "929686139",
+    "whatsappNumber": "56929686139",
+    "whatsappLink": "https://wa.me/56929686139",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/mia-1275667",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1275667/stories/17859591/270w.jpg",
+    "addedAt": 1781049664767
   }
 ]
