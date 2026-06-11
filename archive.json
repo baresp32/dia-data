@@ -14440,5 +14440,27 @@
     "fuente": "chimbis",
     "imageUrl": "https://cdn.chimbis.com/chcl/2026/06/02/22/45/29/k5w9d/foto/book/3_06b8b.jpg",
     "addedAt": 1781154472383
+  },
+  {
+    "name": "Maite Rubia",
+    "phone": "950594159",
+    "whatsappNumber": "56950594159",
+    "whatsappLink": "https://wa.me/56950594159",
+    "city": "Santiago",
+    "url": "https://www.wenas.cl/anuncio/metropolitana-santiago/maite-rubia-121462.html",
+    "imageUrl": "https://www.wenas.cl/src/photos/20260610/min_34774fcee902c099dca705021499536e0.webp",
+    "fuente": "wenas",
+    "addedAt": 1781167281710
+  },
+  {
+    "name": "Kiara de regreso mas rica y encantadora que nunca",
+    "phone": "986260012",
+    "whatsappNumber": "56986260012",
+    "whatsappLink": "https://wa.me/56986260012",
+    "city": "Santiago",
+    "url": "https://www.wenas.cl/anuncio/metropolitana-santiago/kiara-de-regreso-mas-rica-y-encantadora-que-nunca-121441.html",
+    "imageUrl": "https://www.wenas.cl/src/photos/20260610/min_1ad13cdf9806ed97cd59e067d6fcadfa0.webp",
+    "fuente": "wenas",
+    "addedAt": 1781167281710
   }
 ]
