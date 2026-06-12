@@ -14561,5 +14561,38 @@
     "fuente": "gemidos",
     "imageUrl": "https://cdn.gemidos.tv/upload/645699/stories/16812406/270w.jpg",
     "addedAt": 1781224366226
+  },
+  {
+    "name": "Vanesa",
+    "phone": "994941404",
+    "whatsappNumber": "56994941404",
+    "whatsappLink": "https://wa.me/56994941404",
+    "city": "Santiago",
+    "url": "https://chikas.cl/vanesa",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/06/chikas_nueva-modelo-11062026_538911-400x400.jpg?v=1781181426",
+    "addedAt": 1781226250954
+  },
+  {
+    "name": "Caterina",
+    "phone": "999219834",
+    "whatsappNumber": "56999219834",
+    "whatsappLink": "https://wa.me/56999219834",
+    "city": "Santiago",
+    "url": "https://chikas.cl/caterina",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/06/chikas_nueva-modelo-11062026_720322-400x400.jpg?v=1781190806",
+    "addedAt": 1781226250954
+  },
+  {
+    "name": "Zamanta",
+    "phone": "941160629",
+    "whatsappNumber": "56941160629",
+    "whatsappLink": "https://wa.me/56941160629",
+    "city": "Santiago",
+    "url": "https://chikas.cl/zamanta",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/06/chikas_nueva-modelo-11062026_016479-400x400.jpg?v=1781183998",
+    "addedAt": 1781226250954
   }
 ]
