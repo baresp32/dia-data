@@ -2524,17 +2524,6 @@
     "addedAt": 1778001543511
   },
   {
-    "name": "Soraya",
-    "phone": "979911907",
-    "whatsappNumber": "56979911907",
-    "whatsappLink": "https://wa.me/56979911907",
-    "city": "Santiago",
-    "url": "https://chikas.cl/soraya",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/06/chikas_nueva-modelo-09062026_448318-400x400.jpg?v=1781046718",
-    "addedAt": 1781138087701
-  },
-  {
     "name": "Ana",
     "phone": "968669807",
     "whatsappNumber": "56968669807",
@@ -2544,6 +2533,17 @@
     "fuente": "chikas",
     "imageUrl": "https://chikas.cl/wp-content/uploads/2026/05/chikas_nueva-modelo-30052026_397371-400x400.jpg?v=1780199762",
     "addedAt": 1780453957751
+  },
+  {
+    "name": "Soraya",
+    "phone": "979911907",
+    "whatsappNumber": "56979911907",
+    "whatsappLink": "https://wa.me/56979911907",
+    "city": "Santiago",
+    "url": "https://chikas.cl/soraya",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/06/chikas_nueva-modelo-09062026_448318-400x400.jpg?v=1781046718",
+    "addedAt": 1781138087701
   },
   {
     "name": "Vanesa",
@@ -2557,6 +2557,17 @@
     "addedAt": 1781226250954
   },
   {
+    "name": "akira",
+    "phone": "983493695",
+    "whatsappNumber": "56983493695",
+    "whatsappLink": "https://wa.me/56983493695",
+    "city": "Santiago",
+    "url": "https://chikas.cl/akira",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/06/chikas_onbording-nuevo-perfil-12062026_391071-400x400.jpeg?v=1781322221",
+    "addedAt": 1781399245921
+  },
+  {
     "name": "Josefina",
     "phone": "984107669",
     "whatsappNumber": "56984107669",
@@ -2568,28 +2579,6 @@
     "addedAt": 1781051494818
   },
   {
-    "name": "Ninamasajes",
-    "phone": "968249160",
-    "whatsappNumber": "56968249160",
-    "whatsappLink": "https://wa.me/56968249160",
-    "city": "Santiago",
-    "url": "https://chikas.cl/ninamasajes",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/06/chikas_nueva-modelo-03062026_879563-400x400.jpg?v=1780505565",
-    "addedAt": 1777814254359
-  },
-  {
-    "name": "kata",
-    "phone": "926817066",
-    "whatsappNumber": "56926817066",
-    "whatsappLink": "https://wa.me/56926817066",
-    "city": "Santiago",
-    "url": "https://chikas.cl/kata",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/05/chikas_kata-02062026_518654-400x400.jpeg?v=1780418624",
-    "addedAt": 1780166274172
-  },
-  {
     "name": "Sofi",
     "phone": "990302930",
     "whatsappNumber": "56990302930",
@@ -2598,28 +2587,6 @@
     "url": "https://chikas.cl/sofi",
     "fuente": "chikas",
     "imageUrl": "https://chikas.cl/wp-content/uploads/2026/05/chikas_nueva-modelo-04052026_755267-400x400.jpeg?v=1777918338",
-    "addedAt": 1778001543511
-  },
-  {
-    "name": "Nicol",
-    "phone": "984430705",
-    "whatsappNumber": "56984430705",
-    "whatsappLink": "https://wa.me/56984430705",
-    "city": "Santiago",
-    "url": "https://chikas.cl/nicol",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/05/chikas_nueva-modelo-12052026_185459-400x400.jpg?v=1778592555",
-    "addedAt": 1778676789338
-  },
-  {
-    "name": "Andreita",
-    "phone": "920809648",
-    "whatsappNumber": "56920809648",
-    "whatsappLink": "https://wa.me/56920809648",
-    "city": "Santiago",
-    "url": "https://chikas.cl/andreita",
-    "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2025/10/chikas_andreita-29102025_983260-400x400.jpg?v=1761776737",
     "addedAt": 1778001543511
   },
   {
@@ -2634,37 +2601,47 @@
     "addedAt": 1778001543511
   },
   {
-    "name": "Caterina",
-    "phone": "999155731",
-    "whatsappNumber": "56999155731",
-    "whatsappLink": "https://wa.me/56999155731",
+    "name": "Andreita",
+    "phone": "920809648",
+    "whatsappNumber": "56920809648",
+    "whatsappLink": "https://wa.me/56920809648",
     "city": "Santiago",
-    "url": "https://chikas.cl/caterina",
+    "url": "https://chikas.cl/andreita",
     "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/06/chikas_caterina-12062026_120628-400x400.jpg?v=1781291911",
-    "addedAt": 1781312786697
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2025/10/chikas_andreita-29102025_983260-400x400.jpg?v=1761776737",
+    "addedAt": 1778001543511
   },
   {
-    "name": "Amira",
-    "phone": "956447758",
-    "whatsappNumber": "56956447758",
-    "whatsappLink": "https://wa.me/56956447758",
+    "name": "kata",
+    "phone": "926817066",
+    "whatsappNumber": "56926817066",
+    "whatsappLink": "https://wa.me/56926817066",
     "city": "Santiago",
-    "url": "https://chikas.cl/amira",
+    "url": "https://chikas.cl/kata",
     "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/06/chikas_nueva-modelo-10062026_602971-400x400.jpg?v=1781131222",
-    "addedAt": 1780580631861
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/05/chikas_kata-02062026_518654-400x400.jpeg?v=1780418624",
+    "addedAt": 1780166274172
   },
   {
-    "name": "Juliana",
-    "phone": "966128292",
-    "whatsappNumber": "56966128292",
-    "whatsappLink": "https://wa.me/56966128292",
+    "name": "Nicol",
+    "phone": "984430705",
+    "whatsappNumber": "56984430705",
+    "whatsappLink": "https://wa.me/56984430705",
     "city": "Santiago",
-    "imageUrl": "https://ponelo.cl/avisos/images/juliana/408402_2025091038_tmb2.jpg",
-    "servicio": "",
-    "url": "https://ponelo.cl/avisos/detail-mobil.php?id=408402",
-    "fuente": "ponelo",
+    "url": "https://chikas.cl/nicol",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/05/chikas_nueva-modelo-12052026_185459-400x400.jpg?v=1778592555",
+    "addedAt": 1778676789338
+  },
+  {
+    "name": "Ninamasajes",
+    "phone": "968249160",
+    "whatsappNumber": "56968249160",
+    "whatsappLink": "https://wa.me/56968249160",
+    "city": "Santiago",
+    "url": "https://chikas.cl/ninamasajes",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/06/chikas_nueva-modelo-03062026_879563-400x400.jpg?v=1780505565",
     "addedAt": 1777814254359
   },
   {
@@ -2679,15 +2656,27 @@
     "addedAt": 1781226250954
   },
   {
-    "name": "Pame",
-    "phone": "974697769",
-    "whatsappNumber": "56974697769",
-    "whatsappLink": "https://wa.me/56974697769",
+    "name": "Caterina",
+    "phone": "999155731",
+    "whatsappNumber": "56999155731",
+    "whatsappLink": "https://wa.me/56999155731",
     "city": "Santiago",
-    "url": "https://chikas.cl/pame",
+    "url": "https://chikas.cl/caterina",
     "fuente": "chikas",
-    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/04/chikas_nueva-modelo-21042026_139237-400x400.jpg?v=1776794991",
-    "addedAt": 1778001543511
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/06/chikas_caterina-12062026_120628-400x400.jpg?v=1781291911",
+    "addedAt": 1781312786697
+  },
+  {
+    "name": "Juliana",
+    "phone": "966128292",
+    "whatsappNumber": "56966128292",
+    "whatsappLink": "https://wa.me/56966128292",
+    "city": "Santiago",
+    "imageUrl": "https://ponelo.cl/avisos/images/juliana/408402_2025091038_tmb2.jpg",
+    "servicio": "",
+    "url": "https://ponelo.cl/avisos/detail-mobil.php?id=408402",
+    "fuente": "ponelo",
+    "addedAt": 1777814254359
   },
   {
     "name": "Stefania",
@@ -2699,6 +2688,17 @@
     "fuente": "chikas",
     "imageUrl": "https://chikas.cl/wp-content/uploads/2022/04/chikas_stefania-30032026_474268-400x400.jpg?v=1774869058",
     "addedAt": 1777814254359
+  },
+  {
+    "name": "Leonor",
+    "phone": "928345354",
+    "whatsappNumber": "56928345354",
+    "whatsappLink": "https://wa.me/56928345354",
+    "city": "Santiago",
+    "url": "https://chikas.cl/leonor",
+    "fuente": "chikas",
+    "imageUrl": "https://chikas.cl/wp-content/uploads/2026/03/chikas_nueva-modelo-03032026_808131-400x400.jpeg?v=1772543034",
+    "addedAt": 1778556711084
   },
   {
     "name": "Fanny",
