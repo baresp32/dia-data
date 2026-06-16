@@ -15166,5 +15166,17 @@
     "fuente": "chikas",
     "imageUrl": "https://chikas.cl/wp-content/uploads/2026/06/chikas_nueva-modelo-15062026_072656-400x400.jpg?v=1781551929",
     "addedAt": 1781579079706
+  },
+  {
+    "name": "Isa",
+    "phone": "921909355",
+    "whatsappNumber": "56921909355",
+    "whatsappLink": "https://wa.me/56921909355",
+    "city": "Santiago",
+    "imageUrl": "https://ponelo.cl/avisos/layout_images/aviso-sin-foto.jpg",
+    "servicio": "",
+    "url": "https://ponelo.cl/avisos/detail-mobil.php?id=413588",
+    "fuente": "ponelo",
+    "addedAt": 1781583189823
   }
 ]
