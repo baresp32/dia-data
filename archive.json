@@ -15122,5 +15122,38 @@
     "fuente": "perversas",
     "imageUrl": "https://www.perversas.cl/images/posts/victoria-santiago-7571-1-57177742-md.webp",
     "addedAt": 1781432933388
+  },
+  {
+    "name": "Florencia",
+    "phone": "952354291",
+    "whatsappNumber": "56952354291",
+    "whatsappLink": "https://wa.me/56952354291",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/florencia-1067455",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1067455/stories/15488225/270w.jpg",
+    "addedAt": 1781577248886
+  },
+  {
+    "name": "Georgina",
+    "phone": "928891635",
+    "whatsappNumber": "56928891635",
+    "whatsappLink": "https://wa.me/56928891635",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/georgina-1112653",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1112653/stories/17715384/270w.jpg",
+    "addedAt": 1781577248886
+  },
+  {
+    "name": "Aracely",
+    "phone": "957939691",
+    "whatsappNumber": "56957939691",
+    "whatsappLink": "https://wa.me/56957939691",
+    "city": "Santiago",
+    "url": "https://gemidos.tv/aracely-1272727",
+    "fuente": "gemidos",
+    "imageUrl": "https://cdn.gemidos.tv/upload/1272727/10076606/688a7e00/270w.jpg",
+    "addedAt": 1781577248886
   }
 ]
